@@ -1,4 +1,6 @@
 Лр 1:
+
+
 ![image](https://user-images.githubusercontent.com/95177254/171945091-bf1efe3f-ce8f-4739-ab2f-a807be87f443.png)
 ![image](https://user-images.githubusercontent.com/95177254/171945127-906ce057-fd52-41c7-a692-20719d21ac59.png)
 ![image](https://user-images.githubusercontent.com/95177254/171945178-c202c8fc-05f6-4e10-a917-d593a78c1694.png)
