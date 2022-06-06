@@ -9,6 +9,7 @@ params=$@
 arr_params=( $params )
 
 while true; do
+	sleep "$1"s
 	echo "input message (enter 'quit' to stop):"
 	read msg
 	if [[ $msg != 'quit' ]]; then
